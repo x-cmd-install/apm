@@ -1,0 +1,62 @@
+about:
+  description: Agent Package Manager
+  license: MIT
+  homepage: https://microsoft.github.io/apm/
+  head: b75a02b
+  archived: false
+  latestVersion: v0.28.0
+  collectedAt: 2026-08-29T06:59:12Z
+timeline:
+  created: 2025-09-18
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-06
+popularity:
+  star: 3659
+  watcher: 11
+  fork: 339
+  release: 74
+  contributor: 124
+  pullRequest: 401
+  issue: 1156
+language:
+  Python: 27108871
+  Shell: 381380
+  JavaScript: 259050
+  PowerShell: 158024
+  CSS: 37316
+  Makefile: 507
+  HTML: 295
+totalLine: 27945443
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 73
+    openPR: 75
+    closedIssue: 86
+    openIssue: 61
+    commit: 123
+  last90d:
+    since: 2026-05-31
+    release: 15
+    mergedPR: 448
+    openPR: 96
+    closedIssue: 388
+    openIssue: 116
+    commit: 485
+  last180d:
+    since: 2026-03-02
+    release: 52
+    mergedPR: 1055
+    openPR: 102
+    closedIssue: 940
+    openIssue: 146
+    commit: 1257
+  last360d:
+    since: 2025-09-03
+    release: 74
+    mergedPR: 1118
+    openPR: 102
+    closedIssue: 1001
+    openIssue: 146
+    commit: 1521
