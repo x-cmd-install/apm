@@ -1,62 +1,90 @@
 about:
-  description: Agent Package Manager
+  description:
+  |
+    Agent Package Manager
   license: MIT
   homepage: https://microsoft.github.io/apm/
-  head: c6fde64
+  head: 8acfe95
   archived: false
   latestVersion: v0.29.0
-  collectedAt: 2026-09-04T04:23:16Z
+  collectedAt: 2026-09-04T19:29:02Z
 timeline:
   created: 2025-09-18
   lastCommit: 2026-09-04
   lastRelease: 2026-08-30
 popularity:
-  star: 3717
+  star: 3725
   watcher: 11
-  fork: 345
+  fork: 349
   release: 75
-  contributor: 127
-  pullRequest: 391
-  issue: 1188
+  contributor: 109
+  pullRequest: 1573
+  issue: 1194
 language:
-  Python: 29015263
+  Python: 29346349
   Shell: 278957
-  JavaScript: 266840
+  JavaScript: 273004
   PowerShell: 158024
   CSS: 37316
   Makefile: 507
   HTML: 295
-totalLine: 29757202
+totalBytes: 30094452
 recent:
   last30d:
     since: 2026-08-05
     release: 2
-    mergedPR: 88
-    openPR: 49
-    closedIssue: 116
+    mergedPR: 94
+    openPR: 52
+    closedIssue: 122
     openIssue: 23
-    commit: 95
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 6
+    mergedPR: 263
+    openPR: 69
+    closedIssue: 288
+    openIssue: 59
+    commit: 0
   last90d:
     since: 2026-06-06
     release: 13
-    mergedPR: 425
-    openPR: 76
-    closedIssue: 414
+    mergedPR: 431
+    openPR: 79
+    closedIssue: 420
     openIssue: 85
-    commit: 465
+    commit: 0
   last180d:
     since: 2026-03-08
     release: 52
-    mergedPR: 1085
-    openPR: 85
-    closedIssue: 976
+    mergedPR: 1091
+    openPR: 88
+    closedIssue: 982
     openIssue: 115
-    commit: 1207
+    commit: 0
   last360d:
     since: 2025-09-09
     release: 75
-    mergedPR: 1172
-    openPR: 85
-    closedIssue: 1064
+    mergedPR: 1178
+    openPR: 88
+    closedIssue: 1070
     openIssue: 115
-    commit: 1575
+    commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 75
+    mergedPR: 1178
+    openPR: 88
+    closedIssue: 1070
+    openIssue: 115
+    commit: 1910
+total:
+  release: 75
+  mergedPR: 1178
+  openPR: 88
+  closedIssue: 1079
+  openIssue: 115
+  commit: 1910
+---
+---
+
