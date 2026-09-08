@@ -5,7 +5,7 @@ about:
   head: 1cab81d
   archived: false
   latestVersion: "v0.30.0"
-  collectedAt: 2026-09-08T01:32:05Z
+  collectedAt: 2026-09-08T03:26:29Z
 timeline:
   created: 2025-09-18
   lastCommit: 2026-09-07
@@ -17,7 +17,7 @@ popularity:
   release: 77
   contributor: 110
   pullRequest: 1619
-  issue: 1225
+  issue: 1227
 language:
   Python: 29920836
   Shell: 333253
@@ -34,7 +34,7 @@ recent:
     mergedPR: 128
     openPR: 40
     closedIssue: 118
-    openIssue: 35
+    openIssue: 37
     commit: 181
   last60d:
     since: 2026-07-10
@@ -42,7 +42,7 @@ recent:
     mergedPR: 282
     openPR: 52
     closedIssue: 275
-    openIssue: 59
+    openIssue: 61
     commit: 341
   last90d:
     since: 2026-06-10
@@ -50,7 +50,7 @@ recent:
     mergedPR: 444
     openPR: 61
     closedIssue: 422
-    openIssue: 94
+    openIssue: 96
     commit: 507
   last180d:
     since: 2026-03-12
@@ -58,7 +58,7 @@ recent:
     mergedPR: 1101
     openPR: 69
     closedIssue: 984
-    openIssue: 121
+    openIssue: 123
     commit: 1187
   last360d:
     since: 2025-09-13
@@ -66,7 +66,7 @@ recent:
     mergedPR: 1221
     openPR: 69
     closedIssue: 1093
-    openIssue: 123
+    openIssue: 125
     commit: 1661
   last720d:
     since: 2024-09-18
@@ -74,18 +74,18 @@ recent:
     mergedPR: 1221
     openPR: 69
     closedIssue: 1093
-    openIssue: 123
+    openIssue: 125
     commit: 1953
 total:
   release: 77
   mergedPR: 1221
   openPR: 69
   closedIssue: 1102
-  openIssue: 123
+  openIssue: 125
   commit: 1953
 ---
 path: /home/runner/.x-repo/github.com/microsoft/apm
-collectedAt: 2026-09-08T01:32:16Z
+collectedAt: 2026-09-08T03:26:36Z
 loc:
   Python:
     code: 623166
