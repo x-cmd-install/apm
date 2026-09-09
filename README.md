@@ -5,9 +5,9 @@ Agent Package Manager
 - **Upstream**: <https://github.com/microsoft/apm>
 - **Homepage**: <https://microsoft.github.io/apm/>
 - **Latest release**: `v0.30.0` (2026-09-07)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 3760 · **Forks**: 352 · **Open issues**: 1239 · **Contributors**: 110
+- **Stars**: 3762 · **Forks**: 356 · **Open issues**: 1248 · **Contributors**: 111
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/apm> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T02:35:45Z._
+_Last regenerated: 2026-09-09T18:22:37Z._
