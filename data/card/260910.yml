@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.30.0"
   latestRelease: "v0.30.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:19:51Z
+  collectedAt: 2026-09-10T23:26:24Z
 timeline:
   created: 2025-09-18
   lastCommit: 2026-09-09
@@ -89,7 +89,7 @@ total:
   commit: 1960
 ---
 path: /home/runner/.x-repo/github.com/microsoft/apm
-collectedAt: 2026-09-10T20:19:59Z
+collectedAt: 2026-09-10T23:26:31Z
 loc:
   Python:
     code: 623842
