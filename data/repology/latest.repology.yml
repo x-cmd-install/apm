@@ -1,0 +1,67 @@
+- repo: alt_p11
+  srcname: apm
+  binnames:
+    - apm
+    - apm-debuginfo
+  visiblename: apm
+  version: 0.3.3
+  origversion: 0.3.3-alt1
+  status: outdated
+  summary: Atomic Package Manager
+  maintainers:
+    - rirusha@altlinux.org
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - System/Configuration/Packaging
+- repo: altsisyphus
+  srcname: apm
+  binnames:
+    - apm
+    - apm-debuginfo
+  visiblename: apm
+  version: 0.6.3
+  origversion: 0.6.3-alt1
+  status: outdated
+  summary: Atomic Package Manager
+  maintainers:
+    - rirusha@altlinux.org
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - System/Configuration/Packaging
+- repo: aur
+  srcname: apm-bin
+  binname: apm-bin
+  visiblename: apm-bin
+  version: 0.26.0
+  origversion: 0.26.0-1
+  status: outdated
+  summary: Agent Package Manager by Microsoft
+  maintainers:
+    - mh0386@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: apm
+  visiblename: apm
+  version: 0.30.0
+  origversion: null
+  status: newest
+  summary: Dependency manager for AI agent configuration
+- repo: homebrew
+  srcname: apm
+  visiblename: apm
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Dependency manager for AI agent configuration
+- repo: scoop
+  subrepo: main
+  binname: apm
+  visiblename: apm
+  version: 0.30.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
