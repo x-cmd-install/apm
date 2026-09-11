@@ -14,12 +14,12 @@ x install apm
 
 ## Code insight
 
-Total: **671,221** lines of code across **2073** files in the top 5 languages.
+Total: **674,588** lines of code across **2093** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 623,842 | 34,664 | 121,412 | 1860 |
-| Json | 27,263 | 0 | 0 | 49 |
+| Python | 627,074 | 34,662 | 121,795 | 1880 |
+| Json | 27,398 | 0 | 0 | 49 |
 | Sh | 5,247 | 1,100 | 886 | 35 |
 | Yaml | 4,845 | 292 | 72 | 110 |
 | JavaScript | 3,637 | 226 | 511 | 19 |
@@ -33,27 +33,27 @@ Total: **671,221** lines of code across **2073** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.30.0` (2026-09-07)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-11
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,771 · **Forks**: 357 · **Open issues**: 1,252 · **Contributors**: 111
+- **Stars**: 3,779 · **Forks**: 360 · **Open issues**: 1,257 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1228 · **Open PRs**: 81 · **Closed issues**: 1109 · **Open issues**: 143 · **Commits**: 1960
+- **Releases**: 77 · **Merged PRs**: 1232 · **Open PRs**: 81 · **Closed issues**: 1113 · **Open issues**: 144 · **Commits**: 1964
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 3 | 131 | 57 | 107 | 53 | 188 |
-| last60d | 2026-07-13 | 6 | 275 | 65 | 260 | 76 | 348 |
-| 90d | 2026-06-13 | 13 | 435 | 73 | 420 | 113 | 514 |
-| last180d | 2026-03-15 | 49 | 1085 | 81 | 976 | 140 | 1194 |
-| 360d | 2025-09-16 | 77 | 1228 | 81 | 1100 | 143 | 1668 |
-| last720d | 2024-09-21 | 77 | 1228 | 81 | 1100 | 143 | 1960 |
+| 30d | 2026-08-12 | 3 | 135 | 57 | 111 | 54 | 192 |
+| last60d | 2026-07-13 | 6 | 279 | 65 | 264 | 77 | 352 |
+| 90d | 2026-06-13 | 13 | 439 | 73 | 424 | 114 | 518 |
+| last180d | 2026-03-15 | 49 | 1089 | 81 | 980 | 141 | 1198 |
+| 360d | 2025-09-16 | 77 | 1232 | 81 | 1104 | 144 | 1672 |
+| last720d | 2024-09-21 | 77 | 1232 | 81 | 1104 | 144 | 1964 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for apm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T02:31:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:55:39Z._
