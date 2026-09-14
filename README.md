@@ -38,22 +38,22 @@ Total: **676,771** lines of code across **2104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,785 · **Forks**: 360 · **Open issues**: 1,267 · **Contributors**: 111
+- **Stars**: 3,794 · **Forks**: 361 · **Open issues**: 1,270 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1236 · **Open PRs**: 63 · **Closed issues**: 1126 · **Open issues**: 141 · **Commits**: 1968
+- **Releases**: 77 · **Merged PRs**: 1236 · **Open PRs**: 63 · **Closed issues**: 1127 · **Open issues**: 143 · **Commits**: 1968
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 139 | 46 | 118 | 52 | 196 |
-| last60d | 2026-07-15 | 6 | 261 | 49 | 259 | 75 | 356 |
-| 90d | 2026-06-15 | 13 | 438 | 56 | 425 | 112 | 522 |
-| last180d | 2026-03-17 | 48 | 1081 | 63 | 975 | 139 | 1202 |
-| 360d | 2025-09-18 | 77 | 1236 | 63 | 1117 | 141 | 1676 |
-| last720d | 2024-09-23 | 77 | 1236 | 63 | 1117 | 141 | 1968 |
+| 30d | 2026-08-15 | 3 | 133 | 46 | 116 | 54 | 186 |
+| last60d | 2026-07-16 | 6 | 240 | 49 | 254 | 74 | 284 |
+| 90d | 2026-06-16 | 13 | 422 | 56 | 416 | 111 | 476 |
+| last180d | 2026-03-18 | 48 | 1071 | 63 | 973 | 141 | 1149 |
+| 360d | 2025-09-19 | 75 | 1236 | 63 | 1118 | 143 | 1654 |
+| last720d | 2024-09-24 | 77 | 1236 | 63 | 1118 | 143 | 1968 |
 
 ## Release assets
 
@@ -70,14 +70,6 @@ Total: **676,771** lines of code across **2104** files in the top 5 languages.
 | [apm-windows-x86_64.zip](https://github.com/microsoft/apm/releases/download/v0.30.0/apm-windows-x86_64.zip) | 18.8 MiB | `native/win/x64` |
 | [apm-windows-x86_64.zip.sha256](https://github.com/microsoft/apm/releases/download/v0.30.0/apm-windows-x86_64.zip.sha256) | 89 B | `native/win/x64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/apm). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.30.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for apm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `apm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +79,4 @@ Install metadata for apm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T02:38:03Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T02:53:39Z._
