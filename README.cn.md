@@ -14,12 +14,12 @@ x install apm
 
 ## 代码洞察
 
-合计: **681,995** 行代码（覆盖前 5 种语言、共 **2128** 个文件）。
+合计: **682,886** 行代码（覆盖前 5 种语言、共 **2130** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 631,978 | 34,722 | 122,406 | 1898 |
-| Json | 27,934 | 0 | 0 | 54 |
+| Python | 632,867 | 34,712 | 122,493 | 1900 |
+| Json | 27,936 | 0 | 0 | 54 |
 | JavaScript | 5,529 | 230 | 637 | 25 |
 | Sh | 5,247 | 1,100 | 886 | 35 |
 | Yaml | 4,967 | 260 | 81 | 116 |
@@ -32,43 +32,43 @@ x install apm
 
 ## 发布
 
-- **最新版本**: `v0.31.0` (2026-09-15)
-- **最近提交**: 2026-09-24
+- **最新版本**: `v0.32.0` (2026-09-25)
+- **最近提交**: 2026-09-25
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 3,892 · **Fork**: 373 · **开放 issue**: 1,337 · **贡献者**: 117
+- **Star**: 3,903 · **Fork**: 373 · **开放 issue**: 1,343 · **贡献者**: 117
 
 ## 累计统计
 
-- **发布数**: 78 · **已合并 PR**: 1259 · **开放 PR**: 60 · **已关闭 issue**: 1168 · **开放 issue**: 169 · **提交数**: 1991
+- **发布数**: 79 · **已合并 PR**: 1263 · **开放 PR**: 59 · **已关闭 issue**: 1170 · **开放 issue**: 173 · **提交数**: 1995
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 4 | 116 | 33 | 108 | 83 | 178 |
-| last60d | 2026-07-27 | 6 | 221 | 46 | 244 | 99 | 305 |
-| 90d | 2026-06-27 | 12 | 394 | 54 | 409 | 134 | 455 |
-| last180d | 2026-03-29 | 43 | 1040 | 60 | 971 | 168 | 1141 |
-| 360d | 2025-09-30 | 75 | 1258 | 60 | 1158 | 169 | 1673 |
-| last720d | 2024-10-05 | 78 | 1259 | 60 | 1159 | 169 | 1991 |
+| 30d | 2026-08-27 | 5 | 118 | 32 | 107 | 87 | 182 |
+| last60d | 2026-07-28 | 7 | 221 | 44 | 243 | 103 | 309 |
+| 90d | 2026-06-28 | 13 | 389 | 53 | 408 | 137 | 459 |
+| last180d | 2026-03-30 | 44 | 1039 | 59 | 968 | 172 | 1145 |
+| 360d | 2025-10-01 | 76 | 1262 | 59 | 1160 | 173 | 1677 |
+| last720d | 2024-10-06 | 79 | 1263 | 59 | 1161 | 173 | 1995 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [apm-darwin-arm64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-darwin-arm64.tar.gz) | 22.6 MiB | `native/darwin/arm64` |
-| [apm-darwin-arm64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-darwin-arm64.tar.gz.sha256) | 90 B | `native/darwin/arm64` |
-| [apm-darwin-x86_64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-darwin-x86_64.tar.gz) | 23.9 MiB | `native/darwin/x64` |
-| [apm-darwin-x86_64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-darwin-x86_64.tar.gz.sha256) | 91 B | `native/darwin/x64` |
-| [apm-linux-arm64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-linux-arm64.tar.gz) | 13.9 MiB | `native/linux/arm64` |
-| [apm-linux-arm64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-linux-arm64.tar.gz.sha256) | 89 B | `native/linux/arm64` |
-| [apm-linux-x86_64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-linux-x86_64.tar.gz) | 14.0 MiB | `native/linux/x64` |
-| [apm-linux-x86_64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-linux-x86_64.tar.gz.sha256) | 90 B | `native/linux/x64` |
-| [apm-windows-x86_64.zip](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-windows-x86_64.zip) | 18.8 MiB | `native/win/x64` |
-| [apm-windows-x86_64.zip.sha256](https://github.com/microsoft/apm/releases/download/v0.31.0/apm-windows-x86_64.zip.sha256) | 89 B | `native/win/x64` |
+| [apm-darwin-arm64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-darwin-arm64.tar.gz) | 22.5 MiB | `native/darwin/arm64` |
+| [apm-darwin-arm64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-darwin-arm64.tar.gz.sha256) | 90 B | `native/darwin/arm64` |
+| [apm-darwin-x86_64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-darwin-x86_64.tar.gz) | 23.9 MiB | `native/darwin/x64` |
+| [apm-darwin-x86_64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-darwin-x86_64.tar.gz.sha256) | 91 B | `native/darwin/x64` |
+| [apm-linux-arm64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-linux-arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
+| [apm-linux-arm64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-linux-arm64.tar.gz.sha256) | 89 B | `native/linux/arm64` |
+| [apm-linux-x86_64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-linux-x86_64.tar.gz) | 14.0 MiB | `native/linux/x64` |
+| [apm-linux-x86_64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-linux-x86_64.tar.gz.sha256) | 90 B | `native/linux/x64` |
+| [apm-windows-x86_64.zip](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-windows-x86_64.zip) | 18.8 MiB | `native/win/x64` |
+| [apm-windows-x86_64.zip.sha256](https://github.com/microsoft/apm/releases/download/v0.32.0/apm-windows-x86_64.zip.sha256) | 89 B | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ apm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260925.yml` · 2026-09-25T02:58:21Z._
+_数据快照: `data/card/260926.yml` · 2026-09-26T03:01:53Z._
