@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 23694173,
       "digest": "sha256:312002dca9e1410557bc0da414b7d9bc8438c905c6573e81c06370fde9910857",
-      "download_count": 17,
+      "download_count": 100,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:36:59Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": "sha256:4c59eaed1bb239c1b7c5bc16dd8bece3a7e444ea9c9346ae71996fd577de6c7d",
-      "download_count": 9,
+      "download_count": 20,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:36:58Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-darwin-arm64.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 25096606,
       "digest": "sha256:a192f5915b44dac0f7aed9574a98e34e7cda96607760999e4601d1fde773c4f9",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:37:00Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-darwin-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": "sha256:42841319fcb5e5f42563aeb7b0b5d807df16667f7d39f5f96c84b051594f443b",
-      "download_count": 1,
+      "download_count": 7,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:36:58Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-darwin-x86_64.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14547184,
       "digest": "sha256:ac40dd0efd1af35a56847beedde96854530d2f54851e026728da017d3af827f8",
-      "download_count": 19,
+      "download_count": 47,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:36:59Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 89,
       "digest": "sha256:1503db6b73a08d8882500e4d40cb58c5d16530188a2d28e4e9807864da1c91d0",
-      "download_count": 1,
+      "download_count": 21,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:36:59Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-linux-arm64.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14715978,
       "digest": "sha256:e6374402c74318f7c8bef97a90d8572d049fdab0dc3871492c6b0647ae9e881f",
-      "download_count": 225,
+      "download_count": 629,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:36:59Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-linux-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": "sha256:7a85c3186772d22ef59d41d685a07e7cb3093cdaafd7b20ef2653e1f020cca32",
-      "download_count": 108,
+      "download_count": 255,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:36:59Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-linux-x86_64.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 19765595,
       "digest": "sha256:ab0fba071ef9c04a72fc2c13314f71ebd10fdb599ba3c985a09f5ba38095d0a1",
-      "download_count": 61,
+      "download_count": 169,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:37:00Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-windows-x86_64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 89,
       "digest": "sha256:b592d7ebc9e3796909457b6dd7000d1b08a6c72082763d8fe8bf3c10ef01c763",
-      "download_count": 37,
+      "download_count": 89,
       "created_at": "2026-10-02T18:36:58Z",
       "updated_at": "2026-10-02T18:36:59Z",
       "browser_download_url": "https://github.com/microsoft/apm/releases/download/v0.33.0/apm-windows-x86_64.zip.sha256"
