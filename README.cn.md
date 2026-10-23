@@ -14,12 +14,12 @@ x install apm
 
 ## 代码洞察
 
-合计: **752,506** 行代码（覆盖前 5 种语言、共 **2345** 个文件）。
+合计: **755,700** 行代码（覆盖前 5 种语言、共 **2351** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 700,705 | 35,202 | 130,023 | 2106 |
-| Json | 29,230 | 0 | 0 | 62 |
+| Python | 703,887 | 35,204 | 130,353 | 2112 |
+| Json | 29,242 | 0 | 0 | 62 |
 | JavaScript | 5,636 | 232 | 638 | 26 |
 | Sh | 5,265 | 1,107 | 887 | 35 |
 | Yaml | 5,046 | 260 | 81 | 116 |
@@ -32,43 +32,51 @@ x install apm
 
 ## 发布
 
-- **最新版本**: `v0.34.0` (2026-10-19)
-- **最近提交**: 2026-10-21
+- **最新版本**: `v0.35.0` (2026-10-22)
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 4,106 · **Fork**: 403 · **开放 issue**: 1,484 · **贡献者**: 136
+- **Star**: 4,115 · **Fork**: 402 · **开放 issue**: 1,494 · **贡献者**: 136
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 1375 · **开放 PR**: 45 · **已关闭 issue**: 1324 · **开放 issue**: 160 · **提交数**: 2438
+- **发布数**: 82 · **已合并 PR**: 1387 · **开放 PR**: 48 · **已关闭 issue**: 1330 · **开放 issue**: 164 · **提交数**: 2478
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 90 | 16 | 95 | 59 | 288 |
-| last60d | 2026-08-23 | 7 | 235 | 24 | 260 | 92 | 472 |
-| 90d | 2026-07-24 | 9 | 342 | 32 | 394 | 107 | 593 |
-| last180d | 2026-04-25 | 37 | 997 | 44 | 924 | 154 | 1230 |
-| 360d | 2025-10-27 | 78 | 1371 | 45 | 1311 | 160 | 1923 |
-| last720d | 2024-11-01 | 81 | 1374 | 45 | 1315 | 160 | 2438 |
+| 30d | 2026-09-23 | 4 | 100 | 19 | 100 | 63 | 310 |
+| last60d | 2026-08-24 | 8 | 244 | 27 | 260 | 96 | 494 |
+| 90d | 2026-07-25 | 10 | 347 | 35 | 397 | 111 | 615 |
+| last180d | 2026-04-26 | 38 | 994 | 47 | 924 | 158 | 1252 |
+| 360d | 2025-10-28 | 79 | 1382 | 48 | 1316 | 164 | 1945 |
+| last720d | 2024-11-02 | 82 | 1386 | 48 | 1321 | 164 | 2478 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [apm-darwin-arm64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-darwin-arm64.tar.gz) | 22.6 MiB | `native/darwin/arm64` |
-| [apm-darwin-arm64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-darwin-arm64.tar.gz.sha256) | 90 B | `native/darwin/arm64` |
-| [apm-darwin-x86_64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-darwin-x86_64.tar.gz) | 24.0 MiB | `native/darwin/x64` |
-| [apm-darwin-x86_64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-darwin-x86_64.tar.gz.sha256) | 91 B | `native/darwin/x64` |
-| [apm-linux-arm64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-linux-arm64.tar.gz) | 13.9 MiB | `native/linux/arm64` |
-| [apm-linux-arm64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-linux-arm64.tar.gz.sha256) | 89 B | `native/linux/arm64` |
-| [apm-linux-x86_64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-linux-x86_64.tar.gz) | 14.1 MiB | `native/linux/x64` |
-| [apm-linux-x86_64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-linux-x86_64.tar.gz.sha256) | 90 B | `native/linux/x64` |
-| [apm-windows-x86_64.zip](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-windows-x86_64.zip) | 18.9 MiB | `native/win/x64` |
-| [apm-windows-x86_64.zip.sha256](https://github.com/microsoft/apm/releases/download/v0.34.0/apm-windows-x86_64.zip.sha256) | 89 B | `native/win/x64` |
+| [apm-darwin-arm64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-darwin-arm64.tar.gz) | 22.8 MiB | `native/darwin/arm64` |
+| [apm-darwin-arm64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-darwin-arm64.tar.gz.sha256) | 90 B | `native/darwin/arm64` |
+| [apm-darwin-x86_64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-darwin-x86_64.tar.gz) | 24.2 MiB | `native/darwin/x64` |
+| [apm-darwin-x86_64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-darwin-x86_64.tar.gz.sha256) | 91 B | `native/darwin/x64` |
+| [apm-linux-arm64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-linux-arm64.tar.gz) | 14.1 MiB | `native/linux/arm64` |
+| [apm-linux-arm64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-linux-arm64.tar.gz.sha256) | 89 B | `native/linux/arm64` |
+| [apm-linux-x86_64.tar.gz](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-linux-x86_64.tar.gz) | 14.3 MiB | `native/linux/x64` |
+| [apm-linux-x86_64.tar.gz.sha256](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-linux-x86_64.tar.gz.sha256) | 90 B | `native/linux/x64` |
+| [apm-windows-x86_64.zip](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-windows-x86_64.zip) | 19.1 MiB | `native/win/x64` |
+| [apm-windows-x86_64.zip.sha256](https://github.com/microsoft/apm/releases/download/v0.35.0/apm-windows-x86_64.zip.sha256) | 89 B | `native/win/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/apm) 上共有 **7** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.34.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -79,4 +87,4 @@ apm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T02:53:05Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T02:56:46Z._
