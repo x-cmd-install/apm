@@ -38,22 +38,22 @@ Total: **755,938** lines of code across **2352** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,116 · **Forks**: 403 · **Open issues**: 1,501 · **Contributors**: 135
+- **Stars**: 4,119 · **Forks**: 406 · **Open issues**: 1,505 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1385 · **Open PRs**: 49 · **Closed issues**: 1338 · **Open issues**: 163 · **Commits**: 2479
+- **Releases**: 82 · **Merged PRs**: 1385 · **Open PRs**: 51 · **Closed issues**: 1340 · **Open issues**: 165 · **Commits**: 2479
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 4 | 101 | 21 | 105 | 60 | 311 |
-| last60d | 2026-08-25 | 8 | 243 | 29 | 264 | 95 | 495 |
-| 90d | 2026-07-26 | 10 | 345 | 36 | 403 | 110 | 616 |
-| last180d | 2026-04-27 | 37 | 973 | 48 | 920 | 157 | 1253 |
-| 360d | 2025-10-29 | 79 | 1377 | 49 | 1318 | 163 | 1946 |
-| last720d | 2024-11-03 | 82 | 1384 | 49 | 1329 | 163 | 2479 |
+| 30d | 2026-09-25 | 4 | 99 | 24 | 103 | 60 | 311 |
+| last60d | 2026-08-26 | 8 | 237 | 32 | 263 | 96 | 495 |
+| 90d | 2026-07-27 | 10 | 345 | 39 | 400 | 111 | 616 |
+| last180d | 2026-04-28 | 35 | 967 | 49 | 916 | 158 | 1253 |
+| 360d | 2025-10-30 | 78 | 1375 | 51 | 1320 | 165 | 1946 |
+| last720d | 2024-11-04 | 82 | 1384 | 51 | 1331 | 165 | 2479 |
 
 ## Release assets
 
@@ -72,11 +72,11 @@ Total: **755,938** lines of code across **2352** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/apm). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/apm). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.34.0` | ⚠️ outdated |
+| Homebrew | `0.35.0` | ✅ latest |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for apm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T02:53:35Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T02:45:57Z._
