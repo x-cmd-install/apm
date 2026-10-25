@@ -20,8 +20,8 @@
     - apm
     - apm-debuginfo
   visiblename: apm
-  version: 0.6.3
-  origversion: 0.6.3-alt1
+  version: 0.7.1
+  origversion: 0.7.1-alt1
   status: outdated
   summary: Atomic Package Manager
   maintainers:
@@ -57,9 +57,9 @@
 - repo: homebrew
   srcname: apm
   visiblename: apm
-  version: 0.34.0
+  version: 0.35.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Dependency manager for AI agent configuration
 - repo: homebrew
   srcname: apm
