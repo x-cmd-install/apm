@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: apm
+  visiblename: apm
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Dependency manager for AI agent configuration
 - repo: alt_p11
   srcname: apm
   binnames:
@@ -46,8 +53,8 @@
   srcname: apm-git
   binname: apm-git
   visiblename: apm-git
-  version: 0.33.0.r0.g18c4c43c9
-  origversion: 0.33.0.r0.g18c4c43c9-1
+  version: 0.35.0.r1.g292004325
+  origversion: 0.35.0.r1.g292004325-1
   status: rolling
   summary: Agent Package Manager (microsoft/apm) built from git with a placement perf patch
   maintainers:
@@ -60,13 +67,6 @@
   version: 0.35.0
   origversion: null
   status: newest
-  summary: Dependency manager for AI agent configuration
-- repo: homebrew
-  srcname: apm
-  visiblename: apm
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Dependency manager for AI agent configuration
 - repo: scoop
   subrepo: main
