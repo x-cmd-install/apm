@@ -14,11 +14,11 @@ x install apm
 
 ## Code insight
 
-Total: **756,145** lines of code across **2353** files in the top 5 languages.
+Total: **756,630** lines of code across **2354** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 704,296 | 35,205 | 130,410 | 2114 |
+| Python | 704,781 | 35,210 | 130,477 | 2115 |
 | Json | 29,242 | 0 | 0 | 62 |
 | JavaScript | 5,639 | 232 | 638 | 26 |
 | Sh | 5,265 | 1,107 | 887 | 35 |
@@ -38,22 +38,22 @@ Total: **756,145** lines of code across **2353** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,314 · **Forks**: 415 · **Open issues**: 1,597 · **Contributors**: 134
+- **Stars**: 4,325 · **Forks**: 416 · **Open issues**: 1,611 · **Contributors**: 136
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1387 · **Open PRs**: 77 · **Closed issues**: 1371 · **Open issues**: 226 · **Commits**: 2481
+- **Releases**: 82 · **Merged PRs**: 1396 · **Open PRs**: 89 · **Closed issues**: 1432 · **Open issues**: 179 · **Commits**: 2490
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 64 | 48 | 79 | 99 | 243 |
-| last60d | 2026-09-11 | 5 | 128 | 52 | 198 | 139 | 330 |
-| 90d | 2026-08-12 | 8 | 287 | 65 | 343 | 162 | 522 |
-| last180d | 2026-05-14 | 28 | 825 | 75 | 829 | 212 | 1067 |
-| 360d | 2025-11-15 | 75 | 1373 | 77 | 1348 | 226 | 1906 |
-| last720d | 2024-11-20 | 82 | 1386 | 77 | 1362 | 226 | 2481 |
+| 30d | 2026-10-12 | 2 | 72 | 65 | 109 | 81 | 252 |
+| last60d | 2026-09-12 | 5 | 135 | 69 | 238 | 108 | 339 |
+| 90d | 2026-08-13 | 8 | 296 | 78 | 388 | 128 | 531 |
+| last180d | 2026-05-15 | 28 | 830 | 88 | 877 | 168 | 1076 |
+| 360d | 2025-11-16 | 75 | 1382 | 89 | 1409 | 179 | 1915 |
+| last720d | 2024-11-21 | 82 | 1395 | 89 | 1423 | 179 | 2490 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for apm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T05:38:00Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T04:10:55Z._
