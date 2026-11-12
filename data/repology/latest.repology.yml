@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: apm
-  visiblename: apm
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Dependency manager for AI agent configuration
 - repo: alt_p11
   srcname: apm
   binnames:
@@ -66,13 +59,20 @@
   visiblename: apm
   version: 0.35.0
   origversion: null
-  status: newest
+  status: outdated
+  summary: Dependency manager for AI agent configuration
+- repo: homebrew
+  srcname: apm
+  visiblename: apm
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Dependency manager for AI agent configuration
 - repo: scoop
   subrepo: main
   binname: apm
   visiblename: apm
-  version: 0.35.0
+  version: 0.35.1
   origversion: null
   status: newest
   licenses:
