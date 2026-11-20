@@ -14,13 +14,13 @@ x install apm
 
 ## Code insight
 
-Total: **837,599** lines of code across **2734** files in the top 5 languages.
+Total: **855,611** lines of code across **2786** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 782,081 | 36,653 | 143,753 | 2435 |
-| Json | 29,434 | 0 | 0 | 67 |
-| Yaml | 8,543 | 260 | 86 | 179 |
+| Python | 799,383 | 37,089 | 146,405 | 2486 |
+| Json | 30,073 | 0 | 0 | 68 |
+| Yaml | 8,588 | 260 | 86 | 179 |
 | JavaScript | 5,756 | 233 | 643 | 26 |
 | Sh | 5,137 | 1,067 | 837 | 27 |
 
@@ -38,22 +38,22 @@ Total: **837,599** lines of code across **2734** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,404 · **Forks**: 430 · **Open issues**: 1,796 · **Contributors**: 157
+- **Stars**: 4,414 · **Forks**: 431 · **Open issues**: 1,874 · **Contributors**: 160
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 1588 · **Open PRs**: 21 · **Closed issues**: 1676 · **Open issues**: 120 · **Commits**: 2688
+- **Releases**: 85 · **Merged PRs**: 1634 · **Open PRs**: 59 · **Closed issues**: 1727 · **Open issues**: 147 · **Commits**: 2734
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 224 | 17 | 276 | 47 | 210 |
-| last60d | 2026-09-20 | 7 | 302 | 20 | 407 | 72 | 522 |
-| 90d | 2026-08-21 | 11 | 457 | 21 | 584 | 86 | 714 |
-| last180d | 2026-05-23 | 28 | 961 | 21 | 1079 | 113 | 1230 |
-| 360d | 2025-11-24 | 75 | 1570 | 21 | 1653 | 120 | 2112 |
-| last720d | 2024-11-29 | 85 | 1587 | 21 | 1667 | 120 | 2688 |
+| 30d | 2026-10-21 | 4 | 249 | 54 | 308 | 83 | 256 |
+| last60d | 2026-09-21 | 7 | 347 | 59 | 447 | 104 | 568 |
+| 90d | 2026-08-22 | 11 | 495 | 59 | 625 | 119 | 760 |
+| last180d | 2026-05-24 | 28 | 1006 | 59 | 1125 | 142 | 1276 |
+| 360d | 2025-11-25 | 75 | 1615 | 59 | 1703 | 147 | 2158 |
+| last720d | 2024-11-30 | 85 | 1632 | 59 | 1718 | 147 | 2734 |
 
 ## Release assets
 
@@ -72,11 +72,11 @@ Total: **837,599** lines of code across **2734** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/apm). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/apm). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.36.0` | ⚠️ outdated |
+| Homebrew | `0.36.1` | ✅ latest |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for apm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T05:31:34Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T05:18:39Z._
