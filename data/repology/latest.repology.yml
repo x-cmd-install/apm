@@ -1,3 +1,26 @@
+- repo: scoop
+  subrepo: main
+  binname: apm
+  visiblename: apm
+  version: 0.36.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: apm
+  visiblename: apm
+  version: 0.36.1
+  origversion: null
+  status: newest
+  summary: Dependency manager for AI agent configuration
+- repo: homebrew
+  srcname: apm
+  visiblename: apm
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Dependency manager for AI agent configuration
 - repo: alt_p11
   srcname: apm
   binnames:
@@ -55,28 +78,5 @@
   summary: Agent Package Manager (microsoft/apm) built from git
   maintainers:
     - keemcophoff@aur
-  licenses:
-    - MIT
-- repo: homebrew
-  srcname: apm
-  visiblename: apm
-  version: 0.36.0
-  origversion: null
-  status: outdated
-  summary: Dependency manager for AI agent configuration
-- repo: homebrew
-  srcname: apm
-  visiblename: apm
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Dependency manager for AI agent configuration
-- repo: scoop
-  subrepo: main
-  binname: apm
-  visiblename: apm
-  version: 0.36.1
-  origversion: null
-  status: newest
   licenses:
     - MIT
