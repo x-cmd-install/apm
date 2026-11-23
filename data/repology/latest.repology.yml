@@ -60,7 +60,7 @@
 - repo: homebrew
   srcname: apm
   visiblename: apm
-  version: 0.36.1
+  version: 0.37.0
   origversion: null
   status: outdated
   summary: Dependency manager for AI agent configuration
@@ -75,7 +75,7 @@
   subrepo: main
   binname: apm
   visiblename: apm
-  version: 0.37.0
+  version: 0.38.0
   origversion: null
   status: newest
   licenses:
