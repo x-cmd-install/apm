@@ -23,8 +23,8 @@
     - libapm0.9-debuginfo
     - libapm0.9-devel
   visiblename: apm
-  version: 0.9.0
-  origversion: 0.9.0-alt1
+  version: 0.9.1
+  origversion: 0.9.1-alt1
   status: outdated
   summary: Atomic Package Manager
   maintainers:
@@ -75,7 +75,7 @@
   subrepo: main
   binname: apm
   visiblename: apm
-  version: 0.38.0
+  version: 0.38.1
   origversion: null
   status: newest
   licenses:
