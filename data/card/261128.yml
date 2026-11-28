@@ -1,0 +1,181 @@
+about:
+  description: "Agent Package Manager"
+  license: Apache-2.0
+  homepage: https://microsoft.github.io/apm/
+  head: bc0380d
+  archived: false
+  latestVersion: "v0.39.1"
+  latestRelease: "v0.39.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T05:53:16Z
+timeline:
+  created: 2025-09-18
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-26
+  lastRelease: 2026-11-26
+  lastPrerelease: 
+popularity:
+  star: 4463
+  watcher: 10
+  fork: 440
+  release: 90
+  contributor: 165
+  pullRequest: 2923
+  issue: 2556
+language:
+  Python: 48284241
+  JavaScript: 485854
+  Shell: 329740
+  PowerShell: 177693
+  CSS: 37316
+  Makefile: 507
+  HTML: 295
+totalBytes: 49315646
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 8
+    mergedPR: 943
+    openPR: 19
+    closedIssue: 935
+    openIssue: 95
+    commit: 14639
+  last60d:
+    since: 2026-09-29
+    release: 11
+    mergedPR: 1055
+    openPR: 21
+    closedIssue: 1094
+    openIssue: 107
+    commit: 15445
+  last90d:
+    since: 2026-08-30
+    release: 16
+    mergedPR: 1186
+    openPR: 21
+    closedIssue: 1275
+    openIssue: 118
+    commit: 15825
+  last180d:
+    since: 2026-06-01
+    release: 31
+    mergedPR: 1676
+    openPR: 22
+    closedIssue: 1763
+    openIssue: 138
+    commit: 16872
+  last360d:
+    since: 2025-12-03
+    release: 77
+    mergedPR: 2334
+    openPR: 22
+    closedIssue: 2385
+    openIssue: 141
+    commit: 18814
+  last720d:
+    since: 2024-12-08
+    release: 90
+    mergedPR: 2354
+    openPR: 22
+    closedIssue: 2406
+    openIssue: 141
+    commit: 10302
+total:
+  release: 90
+  mergedPR: 2356
+  openPR: 22
+  closedIssue: 2415
+  openIssue: 141
+  commit: 10302
+---
+path: /home/runner/.x-repo/github.com/microsoft/apm
+collectedAt: 2026-11-28T05:53:33Z
+loc:
+  Python:
+    code: 1012026
+    comments: 42478
+    blanks: 182851
+    files: 3485
+  Json:
+    code: 89403
+    comments: 0
+    blanks: 0
+    files: 600
+  Yaml:
+    code: 15577
+    comments: 404
+    blanks: 87
+    files: 238
+  JavaScript:
+    code: 5773
+    comments: 227
+    blanks: 644
+    files: 27
+  Sh:
+    code: 5207
+    comments: 1093
+    blanks: 843
+    files: 28
+  PowerShell:
+    code: 3716
+    comments: 411
+    blanks: 437
+    files: 16
+  Jsx:
+    code: 1704
+    comments: 7
+    blanks: 128
+    files: 23
+  Css:
+    code: 744
+    comments: 28
+    blanks: 29
+    files: 2
+  RPMSpecfile:
+    code: 286
+    comments: 68
+    blanks: 23
+    files: 1
+  Toml:
+    code: 211
+    comments: 17
+    blanks: 17
+    files: 1
+  Html:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  TypeScript:
+    code: 9
+    comments: 0
+    blanks: 1
+    files: 1
+  Makefile:
+    code: 5
+    comments: 6
+    blanks: 3
+    files: 1
+  Svg:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 28158
+    blanks: 7438
+    files: 179
+  Text:
+    code: 0
+    comments: 318
+    blanks: 26
+    files: 20
+total:
+  code: 1136907
+  comments: 73500
+  blanks: 192713
+  files: 4624
+---
+
+---
